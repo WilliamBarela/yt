@@ -21,7 +21,8 @@ let i=0
 readarray -t companies < $companies_uniq_csv
 
 while (( ${#companies[@]} > i )); do 
-  cat $journal_year | grep -iow "${companies[i]}" | uniq -c; 
+  company_count=$(cat $journal_year | grep -iow "${companies[i]}" | uniq -c);
+  [[ ! -z "$company_count" ]] && echo $company_count;
   ((++i)); 
 done; i=0 
 
@@ -30,3 +31,4 @@ echo "journal: $journal"
 echo "year: $year"
 
 # echo $journal_year_string
+
