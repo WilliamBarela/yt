@@ -1,0 +1,9 @@
+year_abstract_csv=$1
+journal=$2
+
+for year in {2000..2017}; do
+  #grep $year $year_abstract_csv | awk -F^ '{print $2}' >> $journal-$year.txt;
+  #awk -F^ '{if($1==$year){print $2}}' $year_abstract_csv >> $journal--$year.txt;
+  #cat $year_abstract_csv | awk -v year="$year" -F^ '$1==year {print $1}';
+  awk -v year="$year" -F^ '$1==year {print $1}' $year_abstract_csv;
+done
