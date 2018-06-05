@@ -5,11 +5,11 @@ bw,2003,1,blockbuster
 bw,2003,1,CinemaNow
 bw,2003,1,IDC
 bw,2003,1,Movielink
-bw,2003,2,Time Warner
+bw,2003,2,Time
 bw,2003,1,Zappos
 bw,2004,1,AOL
 bw,2004,4,Apple
-bw,2004,1,BT Group PLC
+bw,2004,1,BT
 bw,2004,2,iTunes
 bw,2004,9,Microsoft
 bw,2004,1,MSN
@@ -22,9 +22,9 @@ bw,2004,1,Windows
 bw,2004,2,Yahoo
 bw,2005,1,ABC
 bw,2005,1,collective
-bw,2005,1,Comedy Central
+bw,2005,1,Comedy
 bw,2005,1,digg
-bw,2005,1,Electronic Arts
+bw,2005,1,Electronic
 bw,2005,1,ESPN
 bw,2005,2,Microsoft
 bw,2005,1,MLB
@@ -34,7 +34,7 @@ bw,2005,1,MySpace.com
 bw,2005,2,NBC
 bw,2005,3,Rocketboom
 bw,2005,1,Sony
-bw,2005,1,Sony BMG
+bw,2005,1,Sony
 bw,2005,2,Vidilife
 bw,2005,1,Xbox
 bw,2005,1,Yahoo
@@ -42,8 +42,8 @@ bw,2006,1,ABC
 bw,2006,1,AOL
 bw,2006,1,Apple
 bw,2006,1,BitTorrent
-bw,2006,1,Bottega Veneta
-bw,2006,1,Comedy Central
+bw,2006,1,Bottega
+bw,2006,1,Comedy
 bw,2006,1,Facebook
 bw,2006,3,Fendi
 bw,2006,10,Google
@@ -51,7 +51,7 @@ bw,2006,3,Microsoft
 bw,2006,5,MTV
 bw,2006,5,MySpace
 bw,2006,1,MySpace.com
-bw,2006,2,News Corp
+bw,2006,2,News
 bw,2006,1,Nickelodeon
 bw,2006,2,Nielsen
 bw,2006,1,Ning
@@ -59,9 +59,9 @@ bw,2006,1,PeopleAggregator
 bw,2006,1,Skype
 bw,2006,2,SpiralFrog
 bw,2006,3,Style.com
-bw,2006,2,Time Warner
+bw,2006,2,Time
 bw,2006,3,ups
-bw,2006,1,Valentino Fashion Group
+bw,2006,1,Valentino
 bw,2006,2,Viacom
 bw,2006,1,Vogue
 bw,2006,2,WiMAX
@@ -69,7 +69,7 @@ bw,2006,10,Yahoo
 bw,2006,21,YouTube
 bw,2007,1,Adobe
 bw,2007,5,Amazon
-bw,2007,1,America Online
+bw,2007,1,America
 bw,2007,2,Apple
 bw,2007,4,Archos
 bw,2007,3,AT&amp;T
@@ -77,14 +77,14 @@ bw,2007,1,Bebo
 bw,2007,1,blinkx
 bw,2007,1,Blockbuster
 bw,2007,1,BurnLounge
-bw,2007,1,Burst Media
-bw,2007,1,Busted Tees
+bw,2007,1,Burst
+bw,2007,1,Busted
 bw,2007,13,CBS
 bw,2007,2,CinemaNow
 bw,2007,1,CollegeHumor.com
 bw,2007,4,Comcast
-bw,2007,1,Comedy Central
-bw,2007,1,Connected Ventures
+bw,2007,1,Comedy
+bw,2007,1,Connected
 bw,2007,3,Disney
 bw,2007,1,Facebook
 bw,2007,1,Fancast
@@ -97,12 +97,12 @@ bw,2007,1,gate5
 bw,2007,9,Google
 bw,2007,2,Googlezon
 bw,2007,1,IAC
-bw,2007,1,Indianapolis Star
+bw,2007,1,Indianapolis
 bw,2007,1,Intel
 bw,2007,2,iTunes
 bw,2007,5,Jaman
 bw,2007,2,Joost
-bw,2007,2,Kidz Bop
+bw,2007,2,Kidz
 bw,2007,1,Loudeye
 bw,2007,1,Mac
 bw,2007,3,Meebo
@@ -113,26 +113,26 @@ bw,2007,2,Movielink
 bw,2007,1,MPAA
 bw,2007,2,MSN
 bw,2007,5,NBC
-bw,2007,3,News Corp
+bw,2007,3,News
 bw,2007,4,Nokia
 bw,2007,1,Penguin
 bw,2007,1,Pew
 bw,2007,1,prime
-bw,2007,1,Random House
-bw,2007,1,Razor &amp; Tie
-bw,2007,1,Reno Gazette
+bw,2007,1,Random
+bw,2007,1,Razor
+bw,2007,1,Reno
 bw,2007,1,Rocketboom
-bw,2007,1,Silver Lake Partners
+bw,2007,1,Silver
 bw,2007,1,Skype
-bw,2007,1,Texas Pacific Group
-bw,2007,1,The Arizona Republic
-bw,2007,1,Time Warner
+bw,2007,1,Texas
+bw,2007,1,The
+bw,2007,1,Time
 bw,2007,1,Twango
 bw,2007,2,Unbox
 bw,2007,1,UPS
 bw,2007,1,Veoh
 bw,2007,5,Viacom
-bw,2007,1,Vibrant Media
+bw,2007,1,Vibrant
 bw,2007,1,Vimeo
 bw,2007,1,Vintage
 bw,2007,1,Windows
@@ -141,8 +141,8 @@ bw,2007,2,Yahoo
 bw,2007,16,YouTube
 bw,2008,1,AOL
 bw,2008,1,Apple
-bw,2008,1,Bank of America
-bw,2008,1,Best Buy
+bw,2008,1,Bank
+bw,2008,1,Best
 bw,2008,1,Blockbuster
 bw,2008,1,Comcast
 bw,2008,1,DoubleClick
@@ -157,7 +157,7 @@ bw,2008,2,MSN
 bw,2008,2,MTV
 bw,2008,1,MySpace
 bw,2008,1,NBC
-bw,2008,3,News Corp
+bw,2008,3,News
 bw,2008,1,Nickelodeon
 bw,2008,1,Nissan
 bw,2008,1,Panasonic
@@ -171,9 +171,9 @@ bw,2008,6,YouTube
 bw,2009,2,ABC
 bw,2009,2,CBS
 bw,2009,2,Deca
-bw,2009,1,Digital Entertainment Corp
+bw,2009,1,Digital
 bw,2009,1,DoubleClick
-bw,2009,1,EMI Group
+bw,2009,1,EMI
 bw,2009,1,Facebook
 bw,2009,2,Fox
 bw,2009,6,Google
@@ -183,27 +183,27 @@ bw,2009,5,Maximum
 bw,2009,1,Microsoft
 bw,2009,2,MSN
 bw,2009,2,NBC
-bw,2009,1,New York Times
+bw,2009,1,New
 bw,2009,2,Sony
-bw,2009,1,Sony Music Entertainment
+bw,2009,1,Sony
 bw,2009,1,Threatpost.com
-bw,2009,1,Universal Music
+bw,2009,1,Universal
 bw,2009,6,Vevo
 bw,2009,3,Yahoo
 bw,2009,5,YouTube
 bw,2010,2,Adobe
 bw,2010,4,Akamai
 bw,2010,8,Apple
-bw,2010,4,Best Buy
+bw,2010,4,Best
 bw,2010,3,BlackBerry
 bw,2010,4,CrowdFlower
 bw,2010,6,Disney
-bw,2010,1,Electronic Arts
+bw,2010,1,Electronic
 bw,2010,3,Facebook
 bw,2010,12,Google
 bw,2010,2,iPad
 bw,2010,1,iTunes
-bw,2010,1,Kati London
+bw,2010,1,Kati
 bw,2010,2,Logitech
 bw,2010,1,Microsoft
 bw,2010,1,MySpace
@@ -222,27 +222,27 @@ bw,2010,3,Zynga
 bw,2011,1,Amazon
 bw,2011,1,AMC
 bw,2011,1,AOL
-bw,2011,2,Are You a Human
-bw,2011,1,Bright House Networks
-bw,2011,1,Cablevision Systems
+bw,2011,2,Are
+bw,2011,1,Bright
+bw,2011,1,Cablevision
 bw,2011,5,Canoe
-bw,2011,1,Charter Communications
+bw,2011,1,Charter
 bw,2011,1,Comcast
-bw,2011,1,Cox Communications
+bw,2011,1,Cox
 bw,2011,3,Disney
 bw,2011,1,E!
 bw,2011,3,Facebook
 bw,2011,1,Groupon
 bw,2011,1,iPad
-bw,2011,3,Kate Spade
-bw,2011,1,Khan Academy
+bw,2011,3,Kate
+bw,2011,1,Khan
 bw,2011,4,Kickstarter
 bw,2011,1,MicroConsole
 bw,2011,3,OnLive
 bw,2011,1,ReCaptcha
 bw,2011,1,Sensr.net
-bw,2011,1,Style Network
-bw,2011,1,Time Warner
+bw,2011,1,Style
+bw,2011,1,Time
 bw,2011,1,Truveo
 bw,2011,3,Twitter
 bw,2011,4,YouTube
@@ -254,72 +254,72 @@ bw,2012,2,Apple
 bw,2012,1,AT&amp;T
 bw,2012,1,Baidu
 bw,2012,1,BuzzFeed
-bw,2012,1,Carlyle Group
+bw,2012,1,Carlyle
 bw,2012,1,Cinnamonchallenge.com
 bw,2012,1,CNN
 bw,2012,2,Collective
 bw,2012,4,Comcast
 bw,2012,1,Dish
-bw,2012,1,Dish Network
+bw,2012,1,Dish
 bw,2012,1,Disney
 bw,2012,3,EMarketer
 bw,2012,2,Facebook
 bw,2012,2,FreeTime
 bw,2012,1,Fullscreen
 bw,2012,1,FunnyOrDie.com
-bw,2012,1,Game Closure
-bw,2012,1,Gawker Media
+bw,2012,1,Game
+bw,2012,1,Gawker
 bw,2012,5,Getty
 bw,2012,7,Google
 bw,2012,1,HBO
-bw,2012,1,Hellman &amp; Friedman
-bw,2012,1,Huffington Post
+bw,2012,1,Hellman
+bw,2012,1,Huffington
 bw,2012,7,Hulu
 bw,2012,1,IAC
 bw,2012,1,IDC
-bw,2012,1,Instant Video
+bw,2012,1,Instant
 bw,2012,1,iTunes
 bw,2012,2,Kickstarter
 bw,2012,2,Kindle
 bw,2012,1,Lashes
 bw,2012,1,Lipton
-bw,2012,1,Martha Stewart Living
+bw,2012,1,Martha
 bw,2012,3,Netflix
-bw,2012,1,News Corp
+bw,2012,1,News
 bw,2012,3,Newsweek
 bw,2012,1,Nike
 bw,2012,1,Nokia
 bw,2012,1,Omnimedia
 bw,2012,2,orange
 bw,2012,1,PAX
-bw,2012,2,Penny Arcade
+bw,2012,2,Penny
 bw,2012,2,Pigtronix
 bw,2012,2,Redbox
 bw,2012,6,Roku
 bw,2012,3,Therapick
-bw,2012,1,Time Warner
+bw,2012,1,Time
 bw,2012,2,Verizon
 bw,2012,1,VUDU
 bw,2012,1,Vudu
 bw,2012,1,Wal-Mart
-bw,2012,1,Wonderful Pistachios
+bw,2012,1,Wonderful
 bw,2012,1,Xfinity
 bw,2012,3,Yahoo
 bw,2012,17,YouTube
 bw,2013,1,ABC
 bw,2013,1,Adfreetime.com
-bw,2013,1,Afghan TV
+bw,2013,1,Afghan
 bw,2013,5,Amazon
 bw,2013,1,AMC
-bw,2013,1,America Online
+bw,2013,1,America
 bw,2013,1,Amobee
 bw,2013,1,Android
 bw,2013,1,Apple
-bw,2013,1,Aster Data Systems
+bw,2013,1,Aster
 bw,2013,2,Audiam
 bw,2013,1,Bigcommerce
 bw,2013,1,Bloomberg
-bw,2013,1,Box Office Mojo
+bw,2013,1,Box
 bw,2013,6,Carnival
 bw,2013,1,CBS
 bw,2013,1,CNN
@@ -335,36 +335,36 @@ bw,2013,3,Google
 bw,2013,1,HBO
 bw,2013,1,Hewlett-Packard
 bw,2013,3,Hulu
-bw,2013,1,Instant Video
+bw,2013,1,Instant
 bw,2013,2,Instart
 bw,2013,1,iOS
 bw,2013,1,iTunes
 bw,2013,4,Microsoft
-bw,2013,1,National Cable &amp; Television Association
+bw,2013,1,National
 bw,2013,12,Netflix
-bw,2013,2,New York Times
+bw,2013,2,New
 bw,2013,4,NFL
 bw,2013,1,Oakley
 bw,2013,2,Ooyala
 bw,2013,2,Pogue
 bw,2013,1,Prime
 bw,2013,2,Redbox
-bw,2013,1,Red Storm Entertainment
-bw,2013,1,Roppongi Hills
+bw,2013,1,Red
+bw,2013,1,Roppongi
 bw,2013,2,Sandvine
-bw,2013,1,Sandwich Video
+bw,2013,1,Sandwich
 bw,2013,2,Sony
-bw,2013,1,Superior Audiovisual Council
+bw,2013,1,Superior
 bw,2013,4,Syfy
 bw,2013,2,Thinkmodo
-bw,2013,1,Time Warner
-bw,2013,1,Trion Worlds
+bw,2013,1,Time
+bw,2013,1,Trion
 bw,2013,1,Tumblr
 bw,2013,4,Twitter
 bw,2013,1,variety
 bw,2013,1,Verizon
 bw,2013,1,Viacom
-bw,2013,1,Vienna State Opera
+bw,2013,1,Vienna
 bw,2013,1,Vudu
 bw,2013,1,Wal-Mart
 bw,2013,5,Xbox
@@ -385,40 +385,40 @@ bw,2014,1,Bounty
 bw,2014,1,BP
 bw,2014,2,CBS
 bw,2014,1,CES
-bw,2014,1,Chernin Group
+bw,2014,1,Chernin
 bw,2014,1,Coca-Cola
-bw,2014,1,Comedy Central
+bw,2014,1,Comedy
 bw,2014,4,DirecTV
-bw,2014,2,Dollar Shave Club
+bw,2014,2,Dollar
 bw,2014,1,Dove
 bw,2014,1,Facebook
-bw,2014,1,Food Network
+bw,2014,1,Food
 bw,2014,1,Fox
 bw,2014,3,Fullscreen
-bw,2014,1,Glu Mobile
+bw,2014,1,Glu
 bw,2014,1,Go90
-bw,2014,1,Goldman Sachs
+bw,2014,1,Goldman
 bw,2014,14,Google
 bw,2014,6,GoPro
-bw,2014,1,Harvard Business
+bw,2014,1,Harvard
 bw,2014,4,HBO
 bw,2014,3,Hulu
 bw,2014,1,IAC
 bw,2014,3,Imgur
-bw,2014,1,Instant Video
+bw,2014,1,Instant
 bw,2014,1,Intel
 bw,2014,2,iTunes
-bw,2014,1,Manatt Digital Media
+bw,2014,1,Manatt
 bw,2014,2,MTV
 bw,2014,4,NBC
 bw,2014,25,Netflix
-bw,2014,1,New Form Digital
+bw,2014,1,New
 bw,2014,2,Nickelodeon
 bw,2014,5,Nielsen
-bw,2014,1,October Moon
+bw,2014,1,October
 bw,2014,3,OMG!
 bw,2014,1,Orange
-bw,2014,1,Otter Media
+bw,2014,1,Otter
 bw,2014,1,Panino
 bw,2014,1,Pixability
 bw,2014,3,PlayStation
@@ -431,7 +431,7 @@ bw,2014,1,Showtime
 bw,2014,1,Snickers
 bw,2014,2,Songza
 bw,2014,6,Sony
-bw,2014,1,Time Warner
+bw,2014,1,Time
 bw,2014,1,Twitch
 bw,2014,1,Twitter
 bw,2014,1,Unilever
@@ -441,7 +441,7 @@ bw,2014,2,Verizon
 bw,2014,4,Vessel
 bw,2014,7,Viacom
 bw,2014,2,Vimeo
-bw,2014,2,Weird Al Yankovic
+bw,2014,2,Weird
 bw,2014,2,Yahoo
 bw,2014,1,Yaveo
 bw,2014,41,YouTube
@@ -452,11 +452,11 @@ bw,2015,3,Apple
 bw,2015,2,BitTorrent
 bw,2015,4,Comcast
 bw,2015,1,Consumerist
-bw,2015,1,Consumer Reports
+bw,2015,1,Consumer
 bw,2015,1,DirecTV
 bw,2015,1,Dish
-bw,2015,1,Dish Network
-bw,2015,1,Epic Meal Time
+bw,2015,1,Dish
+bw,2015,1,Epic
 bw,2015,1,ESPN
 bw,2015,3,Facebook
 bw,2015,1,Frasier
@@ -465,19 +465,19 @@ bw,2015,1,HBO
 bw,2015,1,Hewlett-Packard
 bw,2015,1,Hulu
 bw,2015,1,Iconfactory
-bw,2015,1,Instant Video
+bw,2015,1,Instant
 bw,2015,1,iOS
 bw,2015,1,KittyPlaysGames
 bw,2015,1,NBC
 bw,2015,8,Netflix
 bw,2015,2,Nickelodeon
 bw,2015,1,Nielsen
-bw,2015,2,Popcorn Time
+bw,2015,2,Popcorn
 bw,2015,1,Prime
 bw,2015,4,Roku
 bw,2015,5,Snapchat
 bw,2015,1,Sony
-bw,2015,1,Tennis Channel
+bw,2015,1,Tennis
 bw,2015,4,Twitch
 bw,2015,2,Twitter
 bw,2015,1,Verizon
@@ -488,7 +488,7 @@ bw,2015,2,Yandy
 bw,2015,3,YouNow
 bw,2015,11,YouTube
 bw,2016,3,Amazon
-bw,2016,1,America Online
+bw,2016,1,America
 bw,2016,1,Android
 bw,2016,1,Apple
 bw,2016,4,AT&amp;T
@@ -496,7 +496,7 @@ bw,2016,2,Comcast
 bw,2016,1,Deloitte
 bw,2016,1,DirecTV
 bw,2016,1,Disney
-bw,2016,1,Electronic Arts
+bw,2016,1,Electronic
 bw,2016,1,E-sports
 bw,2016,1,e-sports
 bw,2016,1,Facebook
@@ -507,14 +507,14 @@ bw,2016,3,Google
 bw,2016,2,Hulu
 bw,2016,1,Instagram
 bw,2016,2,LCS
-bw,2016,1,League of Legends Championship Series
-bw,2016,1,Lilly Singh
+bw,2016,1,League
+bw,2016,1,Lilly
 bw,2016,1,Livestream
 bw,2016,1,NBC
 bw,2016,3,Netflix
 bw,2016,1,Periscope
-bw,2016,1,Ryder Carroll
-bw,2016,4,Time Warner
+bw,2016,1,Ryder
+bw,2016,4,Time
 bw,2016,2,Twitch
 bw,2016,1,Twitter
 bw,2016,4,Verizon
